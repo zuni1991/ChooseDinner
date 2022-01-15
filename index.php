@@ -11,7 +11,7 @@
 </head>
 <body style = "text-align: center;">
 <h1> What does Pame want to eat today?</h1>
-<button id="button" onclick="myFunction()"> Click me</button>
+<button id="button" onclick="myFunction()"> Lets Eat </button>
 <script>
     function myFunction(){
         var things = ['Pizza', 'Pasta', 'Ramen','Sushi','Mexican Food', 'CFA', 'Juan will cook <3', 'Chinese food', 'Indian Food'];
